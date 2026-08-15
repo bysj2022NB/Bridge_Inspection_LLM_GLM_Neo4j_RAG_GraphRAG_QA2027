@@ -1,0 +1,2 @@
+# Bridge_Inspection_LLM_GLM_Neo4j_RAG_GraphRAG_QA2027
+计算机毕业设计LangChain智能体工作流编排-图检索增强(GraphRAG)-桥梁规范与巡检报告智能问答系统-知识图谱(Neo4j)和大模型(LLM)
